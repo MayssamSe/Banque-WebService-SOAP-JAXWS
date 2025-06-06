@@ -169,7 +169,7 @@ proxy.listComptes().forEach(cp -> {
 
 ### 5. Résultat de l’exécution du client SOAP Java (Main.java)
 
-![Résultat](images/main.pPNG)
+![Résultat](images/main.PNG)
 
 ## Auteur
 
